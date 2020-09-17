@@ -42,5 +42,5 @@ values:
     In 2018, Wendy-Anne moved full-time to London where she got accepted to work for the British Council, as a French assistant at Blackfen School for Girls which she completed alongside acting projects and her studies.
 
     In 2019 she graduated from university and now works full time as a voice artist, model, actress in London and has achieved vast portfolio of work in the field.
-  image: img/WednyAnneDaloz@chachaEdric (2).jpg
+  image: img/WendyAnneDaloz@Sam Irons(2).jpg
 ---
