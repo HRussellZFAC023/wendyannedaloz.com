@@ -20,6 +20,8 @@ export default class PostPreview extends React.Component {
           <div className="flex-l mhn1-l ph3 center mw7">
             <h2 className="f2 b lh-title mb2 w-40-l">{entry.getIn(["data", "blurb", "heading"])}</h2>
             <p className="w-60-l mb0">{entry.getIn(["data", "blurb", "text"])}</p>
+            {console.log(entry.getIn(["data"]))}
+            <p className="w-60-l mb0">{(entry.getIn(["data", "details"] || []).map((detail, i) =><div key={i}>{detail.get("heading")}</div>))}</p>
           </div>
         </div>
 
@@ -48,7 +50,6 @@ export default class PostPreview extends React.Component {
               <div className="w-40-l ph2-l">
                 <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "values", "heading"])}</h2>
            
-
                 <p>{entry.getIn(["data", "values", "text"])}</p>
 
                  <div className="w-60-l ph2-l" >

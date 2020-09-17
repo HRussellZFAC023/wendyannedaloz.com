@@ -11,7 +11,7 @@ blurb:
 
 
 
-droducts:
+details:
   - heading: Location
     detail: Greater London
   - detail: 5'4" (164cm)
