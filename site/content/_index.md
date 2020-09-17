@@ -4,7 +4,7 @@ subtitle: London-Paris-LA
 image: img/a1-s.jpg
 blurb:
   heading: Acting
-  text: Upcoming French Actress, bilingual in English and French accepting work
+  text: Upcoming French Actress; bilingual in English and French, accepting work
     for voice and screen projects. Currently in rehearsals for the Island of
     wonder and Despair, produced by Johny Fiolett and Ragnar, directed by Irene
     Maffei.
