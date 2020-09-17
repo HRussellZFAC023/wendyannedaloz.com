@@ -4,13 +4,10 @@ subtitle: London-Paris-LA
 image: img/a1-s.jpg
 blurb:
   heading: Acting
-  text: >+
-    Upcoming French Actress, bilingual in both English and French accepting work
-    for voice and screen projects.
-
-
-
-
+  text: Upcoming French Actress, bilingual in both English and French accepting
+    work for voice and screen projects. Wendy-Anne is currently in rehearsals
+    for the Island of wonder and Despair, produced by Johny Fiolett and Ragnar,
+    directed by Irene Maffei.
 details:
   - heading: Location
     detail: Greater London
@@ -22,22 +19,16 @@ details:
     detail: 16-25
 intro:
   heading: Modelling
-  text: Wendy-Anne is the ultimate spot for coffee lovers who want to learn about
-    their java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: "Wendy-Anne Daloz has over 10 years of Modelling experience, carrying out
+    professional photoshoots from 2011 onwards, with over forty past clienteles.
+    "
 products:
   - image: img/WendyAnneDaloz@Constance Victoria(5).jpg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: Photoshoot with Constance Victoria, a fashion and portrait photographer
+      based in bristol and London.
   - image: img/WendyAnneDaloz@IuliaDavid(3).jpg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: Photoshoot with Lulia David, a London based photographer specialising in
+      editorial, commercial and beauty portrait photography.
 values:
   heading: Background
   text: >-
