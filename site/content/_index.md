@@ -44,4 +44,5 @@ values:
     studies. In 2019 she graduated from university and now works full time as a
     voice artist, model, actress in London and has achieved vast portfolio of
     work in the field.
+  image: img/WednyAnneDaloz@chachaEdric (2).jpg
 ---
