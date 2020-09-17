@@ -1,0 +1,19 @@
+<div class="bg-grey-1 pv4">
+    <div class="flex-l mhn1-l ph3 center mw7">
+        <h2 class="f2 b lh-title mb2 w-40-l">{{.heading}}</h2>
+        <div class="w-60-l mb3">{{.text}}
+            <hr />
+            <ul>
+                {{ range .details }}
+                <li class=" no-underline ">
+                    <em>{{.heading}}</em> : {{.detail}}
+                </li>
+                {{end}}
+            </ul>
+        </div>
+    </div>
+    <div class="tc">
+        <a href="/" class="btn raise">Learn More</a>
+    </div>
+
+</div>

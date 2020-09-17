@@ -2,7 +2,9 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "short-text" .Params.blurb}}
+<!-- {{ partial "short-text" .Params.blurb}} -->
+
+{{ partial "details" (dict "heading" .Params.blurb.heading "text" .Params.blurb.text "details" .Params.details ) }}
 
 {{ partial "2-up" .Params }}
 
