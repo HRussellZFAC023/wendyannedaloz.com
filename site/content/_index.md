@@ -11,6 +11,15 @@ blurb:
 
 
 
+droducts:
+  - heading: Location
+    detail: Greater London
+  - detail: 5'4" (164cm)
+    heading: Height
+  - detail: 9st.6lbs (60 kg)
+    heading: Weight
+  - heading: Playing Age
+    detail: 16-25
 intro:
   heading: Modelling
   text: Wendy-Anne is the ultimate spot for coffee lovers who want to learn about
