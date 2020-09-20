@@ -1,5 +1,10 @@
-<div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
-  <div class="mw7  ph3" style="float: right;">
+{{ $var := "pv6-l" }}
+{{ if .subtitle }}
+{{ $var = "pv7-l" }}
+{{ end }}
+
+<div class="pv5 {{$var}} ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
+  <div class="mw7 ph3" style="float: right;">
     <div class="db mb3">
       <div class="mw7 relative bg-fix-primary mb3">
         <h1 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
