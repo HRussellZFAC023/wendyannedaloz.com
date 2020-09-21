@@ -1,6 +1,6 @@
 ---
 title: "About Wendy-Anne "
-image: img/WendyAnneDaloz@ConstanceVictoria (3).jpg
+image: img/WendyAnneDaloz@MistaLewis.JPG
 values:
   - heading: Shade-grown coffee
     text: >
