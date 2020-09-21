@@ -29,41 +29,15 @@ background:
     imageUrl: img/83642295_1261244047415629_6073917766178439168_n-1-.jpg
   - heading: Work History
     imageUrl: img/WendyAnneDaloz@Scott.jpg
-    text: >+
-      
-
-      June 2019-2021: French Language Supervisor for Feature Film “Island of Wonder and Despair” (2021)
-
-
-      October 2018- May 2020:  British Council/ Institut de français: Selected Speaker at induction day and French Language Assistant in London along with extra hours of tutoring
-
-      •	Translation, preparing lesson exercises, marking, 1:1 support.
-
-      •	Private French tutoring outside of hours 
-
-      •	14 hours per week.
-
-      •	French Instructor through the programm of  Parapluie FLAM (Benoit  Le Dévédec)
-
-
-      September 2018-2020 (present): Tutoring London Company (https://www.tutoringlondon.co.uk/): French Tutor, London Language Studio, Griffin and Bell, KC Tutors, Clarendon Tutors, Bruton Lloyd, London Governess, Kings Tutors, Zac Newman, CJ Pelham, Titanium Tutors, Chelsea and Fulham Tutors, Strive Tutors, French Tutors
-
-
-
-      Babysitting, England, France, Ireland (2014–2017)
-
-      •	Aupair in Ireland, county Cork.
-
-      •	Monitored children in the absence of their parents.
-
-      •	Promoted language development skills through reading and storytelling.
-
-      •	Taught basic education principles using language and theatre skills.
-
-      •	Conversed, played and participated in educational and fun activities in English and French.
-
+    text: >
+      Wendy is currently working part time as a French Language Supervisor for
+      Feature Film "Island of Wonder and Despair" and as a French Language tutor
+      for multiple London agencies. Previously (2018-2020) she worked at the
+      British Council/ Institut de français as a French Language Assistant and
+      as a babysitter (2014-2017), in various locations including Ireland,
+      London and France.
   - heading: Early Accomplishments
-    text: >-
+    text: >
       Language accomplishment: •	English fluent, no accent
 
       •	French fluent, no accent
@@ -82,6 +56,9 @@ background:
       •	Badminton, Baseball, Basketball, Canoe, Cycling, Football, Gymnastics, Hockey (field), Rhythmic Gymnastics, Swimming, Yoga, Meditation
 
       documentary commissioned by Council of Europe titled "Bullying - Have you already been in such situation? - Beat Bullying
+
+
+      Novel written: Fly away, in 2015.
     imageUrl: img/427640_2904192197923_850497025_n.jpg
   - heading: Inspiration
     text: >-
