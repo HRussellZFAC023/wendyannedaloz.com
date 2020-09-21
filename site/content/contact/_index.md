@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: /img/default.png
+logo: /img/default.jpg
 contact_entries:
   - heading: Location
     text: |+
