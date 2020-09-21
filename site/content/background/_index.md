@@ -55,24 +55,6 @@ background:
   - heading: Inspiration
     text: >-
       
-      At the age of six, Orlando Bloom inspired me to become an actress. It is particularly these heroic and fantastical characters that he portrayed that made me feel like I was diving into another realm. That is what I love so much about acting!
-
-      I love taking photos outdoors. I write one diary page and take one video diary everyday in order to look back as much possible and how I have improved throughout my journey.
-
-      I love being outdoors, swimming, cycling for at least four hours and to feel the wind in my face with some lovely music in my ears.
-
-      I plan a lot in order to do what needs to be done. Making every day count and working hard to get what you want makes a great story for your future self. However, I find that taking time for yourself and having a little indulgence is necessary.
-
-      I believe that it is important to not try in emulating another's actor's journey. It really is about creating yourself and finding what works for you.
-
-      Moving in Oxford at the age of 10 was scary for me. I left my best friends behind. However, I am so grateful I had the opportunity to find my English side and to meet people from so many cultures.
-
-      Staying active all the time alters your world.
-
-      The best advice that I have been given is to never be afraid and have fun with it !
-
-      I am so privileged to speak English and French fluently ever since I was born. It feels as if I have two different sides to myself.
-
-      I think all my life I have lived in this bubble of fear which urges me to fight harder.
+      At the age of six, Orlando Bloom inspired Wendy to become an actress. She watched all his movies, inspired by the heroic and fantastical characters that he portrayed that made created the illusion of diving into another realm! Her aspiration is to find herself in similar roles and to and to inspire others in the same way.
     imageUrl: img/WendyAnneDaloz@Howesyourphoto (6).jpg
 ---
