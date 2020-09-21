@@ -31,16 +31,13 @@ products:
       editorial, commercial and beauty portrait photography.
 background:
   heading: Background
-  text: >-
-    In her early childhood she grew up in Bordeaux, France until 2007 when she
-    moved to Oxfordshire, England to study at the European School, Culham.
-
-    In 2011, she transferred to the European School of Strasbourg in Strasbourg, France where in 2013, she had her first introduction to acting starring in a bullying awareness documentary commissioned by Council of Europe titled "Bullying - Have you already been in such situation? - Beat Bullying".
-
-    After graduating in 2015, she enrolled at the University of Strasbourg to study English.
-
-    In 2018, Wendy-Anne moved full-time to London where she got accepted to work for the British Council, as a French assistant at Blackfen School for Girls which she completed alongside acting projects and her studies.
-
-    In 2019 she graduated from university and now works full time as a voice artist, model, actress in London and has achieved vast portfolio of work in the field.
+  text: Wendy-Anne is a voice artist, model, and actress. She studied at the
+    European School, Culham in Oxford, England and European School of Strasbourg
+    in Strasbourg, France, then in 2015, she enrolled at the University of
+    Strasbourg to study English language, literature, and civilisation. 2019 she
+    graduated from university and now works full-time as a model, actress and
+    voice artist in London. She was also accepted to work for the British
+    Council as an English language assistant and has experience tutoring English
+    and French.
   image: img/WendyAnneDaloz@Sam Irons(2).jpg
 ---
