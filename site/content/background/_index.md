@@ -31,11 +31,12 @@ background:
     imageUrl: img/WendyAnneDaloz@Scott.jpg
     text: >
       Wendy is currently working part time as a French Language Supervisor for
-      Feature Film "Island of Wonder and Despair" and as a French Language tutor
-      for multiple London agencies. Previously (2018-2020) she worked at the
-      British Council/ Institut de français as a French Language Assistant and
-      as a babysitter (2014-2017), in various locations including Ireland,
-      London and France.
+      Feature Film "Island of Wonder and Despair"; and as French Language tutor
+      for multiple London agencies. Also she works part-time as an actress,
+      model, and voice artist. Previously (2018-2020) she worked at the British
+      Council/ Institut de français as a French Language Assistant and as a
+      babysitter (2014-2017), in various locations including Ireland, London and
+      France.
   - heading: Early Accomplishments
     text: >
       Language accomplishment: •	English fluent, no accent
