@@ -60,4 +60,5 @@ background:
       At the age of six, Orlando Bloom inspired Wendy to become an actress. She watched all his movies, inspired by the heroic and fantastical characters that he portrayed that made created the illusion of diving into another realm! Her aspiration is to find herself in similar roles and to and to inspire others in the same way.
     imageUrl: img/WendyAnneDaloz@Howesyourphoto (6).jpg
 manual_pdf: img/wendy-anne-daloz-cv.docx
+cv: img/wendy-anne-daloz-cv.docx
 ---
