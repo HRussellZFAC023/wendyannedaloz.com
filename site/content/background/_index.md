@@ -23,9 +23,11 @@ background:
       screen at the National Youth Theatre, London."
     imageUrl: img/WendyAnneDaloz@Sam Irons(3).jpg
   - heading: Notable projects
-    text: |+
-      IMDB credits
-
+    text: Wendy is known for her amazon prime video short, Angie Lemaire as well as
+      her upcoming IMDb projects including Island of Wonder and Despair, Gemma's
+      Tale, and The Rose in the Flame. She is also known for her videography
+      collaborations, including her lady with the lamp clip by Alord Walker and
+      her forest exploration with a horse by Mark Owen.
     imageUrl: img/83642295_1261244047415629_6073917766178439168_n-1-.jpg
   - heading: Work History
     imageUrl: img/WendyAnneDaloz@Scott.jpg
