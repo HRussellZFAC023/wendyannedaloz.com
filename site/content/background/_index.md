@@ -1,7 +1,7 @@
 ---
 title: "About Wendy-Anne "
 image: img/WendyAnneDaloz@MistaLewis.JPG
-values:
+background:
   - heading: Shade-grown coffee
     text: >
       Coffee is a small tree or shrub that grows in the forest understory in its

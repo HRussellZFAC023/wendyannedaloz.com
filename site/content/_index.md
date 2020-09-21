@@ -29,7 +29,7 @@ products:
   - image: img/WendyAnneDaloz@IuliaDavid(3).jpg
     text: Photoshoot with Lulia David, a London based photographer specialising in
       editorial, commercial and beauty portrait photography.
-values:
+background:
   heading: Background
   text: >-
     In her early childhood she grew up in Bordeaux, France until 2007 when she
