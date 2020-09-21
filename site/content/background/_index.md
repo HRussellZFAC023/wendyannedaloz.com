@@ -21,7 +21,7 @@ background:
       Stage and a combat lab at the British Academy of Dramatic Combat. In 2016
       Wendy studied Audition technique, Shakespeare performance and Acting for
       screen at the National Youth Theatre, London."
-    imageUrl: img/WendyAnneDaloz@MoraxPhotography (2).jpg
+    imageUrl: img/WendyAnneDaloz@Sam Irons(3).jpg
   - heading: Notable projects
     text: |+
       IMDB credits
