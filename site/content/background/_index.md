@@ -49,7 +49,7 @@ background:
       Wendy is also incredibly talented in languages. She is bilingual in English and French and does not have an accent. She is also semi-fluent in German and Spanish, which she studied intensively during her youth as part of her European baccalaureate. Additionally, her love of languages lead to her creating a short novel: "fly away" in 2015, a romantic adventure about a girl going on a quest to Ireland.
 
 
-      She is also exceptionally talented in sports taking part in Badminton, Baseball, Basketball, Canoe, Cycling, Football, Gymnastics, Hockey (field), Rhythmic Gymnastics, Swimming and Yoga, of which she achieved gold medals in swimming and a silver medal in Lingolsheim cross country (2013). 
+      She is also exceptionally talented in sports taking part competitively in Badminton, Baseball, Basketball, Canoe, Cycling, Football, Gymnastics, Hockey (field), Rhythmic Gymnastics, Swimming and Yoga, of which she achieved gold medals in swimming and a silver medal in Lingolsheim cross country (2013). 
 
     imageUrl: img/427640_2904192197923_850497025_n.jpg
   - heading: Inspiration
