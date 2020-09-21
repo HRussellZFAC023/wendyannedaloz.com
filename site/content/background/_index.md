@@ -51,7 +51,7 @@ background:
 
       She is also exceptionally talented in sports taking part competitively in Badminton, Baseball, Basketball, Canoe, Cycling, Football, Gymnastics, Hockey (field), Rhythmic Gymnastics, Swimming and Yoga, of which she achieved gold medals in swimming and a silver medal in Lingolsheim cross country (2013). 
 
-    imageUrl: img/427640_2904192197923_850497025_n.jpg
+    imageUrl: img/429362_2904337961567_830892717_n.jpg
   - heading: Inspiration
     text: >-
       
