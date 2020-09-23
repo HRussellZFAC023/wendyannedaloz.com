@@ -1,6 +1,6 @@
 ---
 title: Acting
-image: img/WendyAnneDaloz@Rob Jamieson (8).jpg
+image: img/WendyAnneDaloz@Rob Jamieson (23).jpg
 heading: f
 description: Wendy-Anne is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
