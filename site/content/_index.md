@@ -1,7 +1,7 @@
 ---
 title: Wendy-Anne Daloz
 subtitle: London-Paris-LA
-image: img/WendyAnneDaloz@Sam Irons(2).jpg
+image: img/WendyAnneDaloz@Constance Victoria(4).jpg
 blurb:
   heading: Acting
   text: Upcoming French Actress; bilingual in English and French, accepting work
@@ -13,7 +13,7 @@ details:
     detail: Greater London
   - detail: 5'4" (164cm)
     heading: Height
-  - detail: 9st.6lbs (60 kg)
+  - detail: 9st.2lbs (59 kg)
     heading: Weight
   - heading: Playing Age
     detail: 16-25
@@ -27,7 +27,7 @@ products:
     text: Photoshoot with Constance Victoria, a fashion and portrait photographer
       based in bristol and London.
   - image: img/WendyAnneDaloz@IuliaDavid(3).jpg
-    text: Photoshoot with Lulia David, a London based photographer specialising in
+    text: Photoshoot with Iulia David, a London based photographer specialising in
       editorial, commercial and beauty portrait photography.
 background:
   heading: Background
