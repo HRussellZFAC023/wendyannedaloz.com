@@ -6,7 +6,7 @@ blurb:
   heading: Acting
   text: Upcoming French Actress; bilingual in English and French, accepting work
     for voice and screen projects. Currently in rehearsals for the Island of
-    wonder and Despair, produced by Johny Fiolett and Ragnar, directed by Irene
+    wonder and Despair, produced by Johny Fiolett Ragnar, directed by Irene
     Maffei.
 details:
   - heading: Location
@@ -19,7 +19,7 @@ details:
     detail: 16-25
 intro:
   heading: Modelling
-  text: "Wendy-Anne Daloz has over 10 years of Modelling experience, carrying out
+  text: "Wendy-Anne Daloz has over 10 years of modelling experience, carrying out
     professional photoshoots from 2011 onwards, with over forty past clienteles.
     "
 headshots:
@@ -39,9 +39,8 @@ background:
     "Bullying - Have you already been in such situation? - Beat Bullying". After
     graduating in 2015, she enrolled at the University of Strasbourg to study
     English. In 2018, Wendy-Anne moved full-time to London where she got
-    accepted to work for the British Council, as a French assistant at Blackfen
-    School for Girls which she completed alongside acting projects and her
-    studies. In 2019 she graduated from university and now works full time as a
-    voice artist, model, actress in London.
+    accepted to work for the British Council. In 2019 she graduated from
+    university and now works full time as a voice artist, model, actress in
+    London.
   image: img/wendyannedaloz-constance-victoria-10-.jpg
 ---
