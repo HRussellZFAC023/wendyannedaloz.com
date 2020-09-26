@@ -1,7 +1,7 @@
 ---
 title: Headshots
 image: img/3Q8A1474_c(1).jpg
-heading: asd
+heading: asds
 description: asd
 intro:
   heading: asd
