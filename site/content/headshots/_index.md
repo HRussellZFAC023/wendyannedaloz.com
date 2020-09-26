@@ -92,5 +92,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: "?"
-type: products
+type: headshots
 ---

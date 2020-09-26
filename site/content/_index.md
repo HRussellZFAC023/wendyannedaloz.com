@@ -22,7 +22,7 @@ intro:
   text: "Wendy-Anne Daloz has over 10 years of Modelling experience, carrying out
     professional photoshoots from 2011 onwards, with over forty past clienteles.
     "
-products:
+headshots:
   - image: img/WendyAnneDaloz@Constance Victoria(5).jpg
     text: Photoshoot with Constance Victoria, a fashion and portrait photographer
       based in bristol and London.

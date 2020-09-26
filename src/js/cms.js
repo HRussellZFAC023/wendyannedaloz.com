@@ -6,7 +6,7 @@ import styles from "!to-string-loader!css-loader!postcss-loader!sass-loader!../c
 
 import HomePreview from "./cms-preview-templates/home";
 import PostPreview from "./cms-preview-templates/post";
-import ProductsPreview from "./cms-preview-templates/products";
+import ProductsPreview from "./cms-preview-templates/headshots";
 import BackgroundPreview from "./cms-preview-templates/background";
 import ContactPreview from "./cms-preview-templates/contact";
 
