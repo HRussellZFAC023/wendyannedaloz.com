@@ -43,5 +43,5 @@ background:
     School for Girls which she completed alongside acting projects and her
     studies. In 2019 she graduated from university and now works full time as a
     voice artist, model, actress in London.
-  image: img/WendyAnneDaloz@Sam Irons(2).jpg
+  image: img/wendyannedaloz-constance-victoria-10-.jpg
 ---
