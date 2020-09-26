@@ -7,18 +7,30 @@
 
 		{{ .Content }}
 
+
 		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
-				</div>
+			{{ range .Params.contact_entries }}
+			<div>
+				<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
+				<p>{{ .text }}</p>
+			</div>
 			{{ end }}
 		</div>
 
 		{{ partial "contact-form" . }}
 
+		
+		<div style="  display: grid; place-items: center;">
+			<ul class="mhn2">
+				{{ partial "social-icon" (dict "link" "https://www.imdb.com/name/nm5539731/" "svg" "imdb") }}
+				{{ partial "social-icon" (dict "link" "https://www.spotlight.com/interactive/cv/2530-3422-7843/" "svg" "spotlight") }}
+				{{ partial "social-icon" (dict "link" "https://www.youtube.com/watch?v=bEhjTwgHiKs/" "svg" "youtube") }}
+				{{ partial "social-icon" (dict "link" "https://www.instagram.com/wendyangelify/" "svg" "instagram") }}
+			</ul>
+		</div>
+
 	</div>
+
 </div>
 
 {{ end }}
