@@ -1,6 +1,6 @@
 ---
 title: "About Wendy-Anne "
-image: img/WendyAnneDaloz@Alexdias (2).JPG
+image: img/3Q8A1639_c.jpg
 background:
   - heading: Education
     text: Wendy-Anne is a voice artist, model, and actress. She studied at the
