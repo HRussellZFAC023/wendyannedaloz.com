@@ -85,3 +85,7 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+#siteWrapper {
+    border: 10px solid white
+}

@@ -1,15 +1,15 @@
 :root {
 	/* Colors */
 
-	--primary: #a98252;
-	--highlight: #d99ac3;
+	--primary: #000;
+	--highlight: #0097e6;
 	--white: #f3f3f3;
-	--off-white: #d9d1b8;
-	--grey-1: #eee9e1;
-	--grey-2: #e1dac6;
-	--grey-3: #7d6657;
-	--grey-4: #3d4d30;
-	--black: #263337;
+	--off-white: #ecf0f1;
+	--grey-1: #f5f6fa;
+	--grey-2: #dcdde1;
+	--grey-3: #718093;
+	--grey-4: #40739e;
+	--black: #2f3640;
 
 	/* Typography */
 	--font-family: Nunito Sans, -apple-system, BlinkMacSystemFont, 'avenir next', avenir, helvetica, 'helvetica neue', ubuntu, roboto, noto, 'segoe ui', arial, sans-serif;
