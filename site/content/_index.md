@@ -1,7 +1,7 @@
 ---
 title: Wendy-Anne Daloz
 subtitle: London-Paris-LA
-image: img/WendyAnneDaloz@Constance Victoria(4).jpg
+image: img/untitled-1.jpg
 blurb:
   heading: Acting
   text: Upcoming French Actress; bilingual in English and French, accepting work
