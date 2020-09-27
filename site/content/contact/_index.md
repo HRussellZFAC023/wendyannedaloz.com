@@ -2,13 +2,6 @@
 title: Contact
 logo: /img/default.jpg
 contact_entries:
-  - heading: Location
-    text: |+
-      9 MANDEVILLE COURT
-      STRODE STREET
-      EGHAM, TW20 9BU | 
-      +44(0)7957798699
-
   - heading: Inquires
     text: |-2
        Vamos Talento (UK);  INFO@VAMOSTALENTO.COM |
