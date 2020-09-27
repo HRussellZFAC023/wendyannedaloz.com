@@ -1,6 +1,6 @@
 ---
 title: "About Wendy-Anne "
-image: img/WendyAnneDaloz@Constance Victoria(11).jpg
+image: img/untitled-3.jpg
 background:
   - heading: Education
     text: Wendy-Anne is a voice artist, model, and actress. She studied at the
