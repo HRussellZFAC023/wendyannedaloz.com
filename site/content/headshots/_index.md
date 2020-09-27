@@ -1,6 +1,6 @@
 ---
 title: Headshots
-image: img/wendy-1.jpg
+image: img/untitled-1.jpg
 heading: "Photographer: Sam Irons "
 description: "Wendy-Anne Daloz: London,11/06/2020"
 main:
