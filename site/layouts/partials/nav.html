@@ -24,6 +24,9 @@
 		<li><a href="/headshots" class="pa3 no-underline db">Headshots</a></li>
 
 		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+		{{if not .IsHome}}
+		<li><a href="/" class="pa3 no-underline db">Home</a></li>
+		{{end}}
 		&nbsp; &nbsp;
 	</ul>
 

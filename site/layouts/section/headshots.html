@@ -3,7 +3,7 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 
-{{ with .Params.main }}
+{{ with .Params }}
 <div class="mw7 ph3 pt4 center">
   <div class="mw6 ph3 mb3">
     <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
@@ -11,7 +11,16 @@
   </div>
 </div>
 
-<!-- Image grid -->
-{{ partial "image-grid" . }}
+<div class="flex-ns flex-wrap mhn2-ns mb3">
+  {{ range .headshots }}
+  <div class="ph2-ns w-50-ns mb4">
+    <img src="{{ .image }}" alt="" class="center db mb3" style="width: 75%">
+    <p>{{ .text }}</p>
+  </div>
+  {{ end }}
+</div>
+
+
+
 {{ end }}
 {{ end }}
