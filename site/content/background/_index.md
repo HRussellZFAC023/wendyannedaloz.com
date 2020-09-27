@@ -1,6 +1,6 @@
 ---
 title: "About Wendy-Anne "
-image: img/3Q8A1639_c.jpg
+image: img/WendyAnneDaloz@Constance Victoria(11).jpg
 background:
   - heading: Education
     text: Wendy-Anne is a voice artist, model, and actress. She studied at the
@@ -8,7 +8,7 @@ background:
       Strasbourg in Strasbourg, France. In 2015, she enrolled at the University
       of Strasbourg to study English language, literature, and civilisation and
       she graduated from university 2019.
-    imageUrl: img/WednyAnneDaloz@chachaEdric (2).jpg
+    imageUrl: img/WendyAnneDaloz@Constance Victoria(12).jpg
   - heading: Training
     text: "Wendy-Anne has undergone intensive acting studies. Currently (2020) she
       is studying her second module on Meisner Technique, taught by Scott
@@ -21,16 +21,16 @@ background:
       Stage and a combat lab at the British Academy of Dramatic Combat. In 2016
       Wendy studied Audition technique, Shakespeare performance and Acting for
       screen at the National Youth Theatre, London."
-    imageUrl: img/WendyAnneDaloz@Sam Irons(3).jpg
+    imageUrl: img/WendyAnneDaloz@Constance Victoria(3).jpg
   - heading: Notable projects
     text: Wendy is known for her amazon prime video short, Angie Lemaire as well as
       her upcoming IMDb projects including Island of Wonder and Despair, Gemma's
       Tale, and The Rose in the Flame. She is also known for her videography
       collaborations, including her lady with the lamp clip by Alord Walker and
       her forest exploration with a horse by Mark Owen.
-    imageUrl: img/83642295_1261244047415629_6073917766178439168_n-1-.jpg
+    imageUrl: img/WendyAnneDaloz@Constance Victoria(7).jpg
   - heading: Work History
-    imageUrl: img/WendyAnneDaloz@Scott.jpg
+    imageUrl: img/WendyAnneDaloz@Constance Victoria(2).jpg
     text: >
       Wendy is currently working part time as a French Language Supervisor for
       Feature Film "Island of Wonder and Despair"; and as French Language tutor
@@ -53,12 +53,12 @@ background:
 
       She is also exceptionally talented in sports taking part competitively in Badminton, Baseball, Basketball, Canoe, Cycling, Football, Gymnastics, Hockey (field), Rhythmic Gymnastics, Swimming and Yoga, of which she achieved gold medals in swimming and a silver medal in Lingolsheim cross country (2013). 
 
-    imageUrl: img/429362_2904337961567_830892717_n.jpg
+    imageUrl: img/WendyAnneDaloz@Constance Victoria(4).jpg
   - heading: Inspiration
     text: >-
       
       At the age of six, Orlando Bloom inspired Wendy to become an actress. She watched all his movies, inspired by the heroic and fantastical characters that he portrayed that made created the illusion of diving into another realm! Her aspiration is to find herself in similar roles and to and to inspire others in the same way.
-    imageUrl: img/WendyAnneDaloz@Howesyourphoto (6).jpg
+    imageUrl: img/WendyAnneDaloz@IuliaDavid(2).jpg
 manual_pdf: img/wendy-anne-daloz-cv.docx
 cv: img/wendy-anne-daloz-cv.docx
 ---
