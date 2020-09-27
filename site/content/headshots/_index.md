@@ -15,4 +15,9 @@ main:
   image3:
     image: img/WendyAnneDaloz@Alexdias.JPG
     alt: asdsadsad
+headshots:
+  - image: img/3Q8A1474_c(1).jpg
+  - image: img/WednyAnneDaloz@chachaEdric (2).jpg
+  - image: img/WednyAnneDaloz@itlian.jpg
+  - image: img/WednyAnneDaloz@itlian.jpg
 ---
