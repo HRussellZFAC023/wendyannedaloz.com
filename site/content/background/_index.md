@@ -36,9 +36,8 @@ background:
       Feature Film "Island of Wonder and Despair"; and as French Language tutor
       for multiple London agencies. Also she works part-time as an actress,
       model, and voice artist. Previously (2018-2020) she worked at the British
-      Council/ Institut de français as a French Language Assistant and as a
-      babysitter (2014-2017), in various locations including Ireland, London and
-      France.
+      Council/ Institut de français as a French translator and instructor, in
+      various locations including Ireland, London and France.
   - heading: Early Accomplishments
     text: >+
       Wendy-Anne's acting aspirations began young, with Contemporary Dance and
