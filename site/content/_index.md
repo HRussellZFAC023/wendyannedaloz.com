@@ -25,7 +25,7 @@ intro:
 headshots:
   - image: img/WendyAnneDaloz@Constance Victoria(5).jpg
     text: Photoshoot with Constance Victoria, a fashion and portrait photographer
-      based in bristol and London.
+      based in Bristol and London.
   - image: img/WendyAnneDaloz@IuliaDavid(3).jpg
     text: Photoshoot with Iulia David, a London based photographer specialising in
       editorial, commercial and beauty portrait photography.
