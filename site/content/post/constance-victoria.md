@@ -9,3 +9,7 @@ image: img/WendyAnneDaloz@Constance Victoria(12).jpg
 ![](img/WendyAnneDaloz@Constance Victoria(4).jpg)
 
 ![](img/WendyAnneDaloz@Constance Victoria(5).jpg)
+
+![](img/kj.jpg)
+
+![](img/WendyAnneDaloz@Constance Victoria(3).jpg)
