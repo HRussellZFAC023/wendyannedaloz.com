@@ -39,7 +39,7 @@ background:
     "Bullying - Have you already been in such situation? - Beat Bullying". After
     graduating in 2015, she enrolled at the University of Strasbourg to study
     English. In 2018, Wendy-Anne moved full-time to London where she got
-    accepted to work for the British Council. In 2019 she graduated from
+    accepted to work for the British Council. In 2018, she graduated from
     university and now works full time as a voice artist, model, actress in
     London.
   image: img/wendyannedaloz-constance-victoria-10-.jpg
