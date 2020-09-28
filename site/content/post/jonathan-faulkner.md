@@ -5,6 +5,10 @@ description: Wendy-Anne Daloz
 ---
 ![](img/img_6437.jpg)
 
+![](img/img_6443.jpg)
+
+![](img/img_6441.jpg)
+
 ![](img/img_6442.jpg)
 
 ![](img/img_6436.jpg)
