@@ -1,7 +1,11 @@
 ---
-title: Modelling
+title: Iulia David Photography
 date: 2020-01-11T00:00:00.000Z
-description: Iulia David Photography
+description: Wendy-Anne Daloz
 image: img/84448477_2628444080584321_2672726666190520320_n.jpg
 ---
 ![](img/84393564_177582440175199_6896854528251920384_n.jpg "Iulia David Photography")
+
+![](img/83886619_176420706921688_3979489578602987520_n-1-.jpg)
+
+![](img/83642295_1261244047415629_6073917766178439168_n-1-.jpg)
