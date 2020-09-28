@@ -5,3 +5,5 @@ description: Wendy-Anne Daloz
 image: img/WendyAnneDaloz@Constance Victoria(12).jpg
 ---
 ![](img/WendyAnneDaloz@Constance Victoria(2).jpg)
+
+![](img/WendyAnneDaloz@Constance Victoria(3).jpg)
