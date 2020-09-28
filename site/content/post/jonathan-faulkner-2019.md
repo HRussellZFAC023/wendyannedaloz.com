@@ -5,3 +5,5 @@ description: Wendy-Anne Daloz
 image: img/img_6442.jpg
 ---
 ![](img/img_6444.jpg)
+
+![](img/img_6443.jpg)
