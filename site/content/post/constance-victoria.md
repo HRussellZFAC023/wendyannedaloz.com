@@ -6,10 +6,8 @@ image: img/WendyAnneDaloz@Constance Victoria(10).jpg
 ---
 
 
-![](img/WendyAnneDaloz@Constance Victoria(11).jpg)
-
 ![](img/WendyAnneDaloz@Constance Victoria(12).jpg)
 
 ![](img/WendyAnneDaloz@Constance Victoria(2).jpg)
 
-![](img/WendyAnneDaloz@Constance Victoria(3).jpg)
+![](img/WendyAnneDaloz@Constance Victoria(11).jpg)
