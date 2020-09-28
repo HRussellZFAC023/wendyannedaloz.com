@@ -6,3 +6,7 @@ description: Wendy-Anne Daloz
 ![](img/img_6437.jpg)
 
 ![](img/img_6442.jpg)
+
+![](img/img_6436.jpg)
+
+![](img/img_6444.jpg)
