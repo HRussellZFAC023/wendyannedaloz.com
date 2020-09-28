@@ -1,5 +1,5 @@
 ---
-title: Iulia David Photography
+title: Iulia David Photography 2020
 date: 2020-01-11T00:00:00.000Z
 description: Wendy-Anne Daloz
 image: img/84448477_2628444080584321_2672726666190520320_n.jpg
