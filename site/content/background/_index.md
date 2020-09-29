@@ -7,7 +7,7 @@ background:
       European School, Culham in Oxford, England and European School of
       Strasbourg in Strasbourg, France. In 2015, she enrolled at the University
       of Strasbourg to study English language, literature, and civilisation and
-      she graduated from university 2018.
+      she graduated from university in 2018.
     imageUrl: img/WendyAnneDaloz@ConstanceVictoria(12).jpg
   - heading: Training
     text: "Wendy-Anne has undergone intensive acting studies. Currently (2020) she
