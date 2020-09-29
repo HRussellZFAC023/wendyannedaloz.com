@@ -23,8 +23,8 @@ intro:
     professional photoshoots from 2011 onwards, with over forty past clienteles.
     "
 headshots:
-  - image: img/WendyAnneDaloz@Constance Victoria(5).jpg
-    text: Photoshoot with Constance Victoria, a fashion and portrait photographer
+  - image: img/WendyAnneDaloz@ConstanceVictoria(5).jpg
+    text: Photoshoot with ConstanceVictoria, a fashion and portrait photographer
       based in Bristol and London.
   - image: img/WendyAnneDaloz@IuliaDavid(3).jpg
     text: Photoshoot with Iulia David, a London based photographer specialising in

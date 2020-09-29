@@ -8,7 +8,7 @@ background:
       Strasbourg in Strasbourg, France. In 2015, she enrolled at the University
       of Strasbourg to study English language, literature, and civilisation and
       she graduated from university 2018.
-    imageUrl: img/WendyAnneDaloz@Constance Victoria(12).jpg
+    imageUrl: img/WendyAnneDaloz@ConstanceVictoria(12).jpg
   - heading: Training
     text: "Wendy-Anne has undergone intensive acting studies. Currently (2020) she
       is studying her second module on Meisner Technique, taught by Scott
@@ -21,16 +21,16 @@ background:
       Stage and a combat lab at the British Academy of Dramatic Combat. In 2016
       Wendy studied Audition technique, Shakespeare performance and Acting for
       screen at the National Youth Theatre, London."
-    imageUrl: img/WendyAnneDaloz@Constance Victoria(3).jpg
+    imageUrl: img/WendyAnneDaloz@ConstanceVictoria(3).jpg
   - heading: Notable projects
     text: Wendy is known for her amazon prime video short, Angie Lemaire as well as
       her upcoming IMDb projects including Island of Wonder and Despair, Gemma's
       Tale, and The Rose in the Flame. She is also known for her videography
       collaborations, including her lady with the lamp clip by Alord Walker and
       her forest exploration with a horse by Mark Owen.
-    imageUrl: img/WendyAnneDaloz@Constance Victoria(7).jpg
+    imageUrl: img/WendyAnneDaloz@ConstanceVictoria(7).jpg
   - heading: Work History
-    imageUrl: img/WendyAnneDaloz@Constance Victoria(2).jpg
+    imageUrl: img/WendyAnneDaloz@ConstanceVictoria(2).jpg
     text: >
       Wendy is currently working part time as a French Language Supervisor for
       Feature Film "Island of Wonder and Despair"; and as French Language tutor
@@ -52,7 +52,7 @@ background:
 
       She is also exceptionally talented in sports taking part competitively in Badminton, Baseball, Basketball, Canoe, Cycling, Football, Gymnastics, Hockey (field), Rhythmic Gymnastics, Swimming and Yoga, of which she achieved gold medals in swimming and a silver medal in Lingolsheim cross country (2013). 
 
-    imageUrl: img/WendyAnneDaloz@Constance Victoria(4).jpg
+    imageUrl: img/WendyAnneDaloz@ConstanceVictoria(4).jpg
   - heading: Inspiration
     text: >-
       
