@@ -12,15 +12,16 @@ background:
   - heading: Training
     text: "Wendy-Anne has undergone intensive acting studies. Currently (2020) she
       is studying her second module on Meisner Technique, taught by Scott
-      Williams as part of her one year acting course, at the impulse company,
+      Williams as part of her one year acting course, at the Impulse company,
       London. In 2019 she undertook private acting lessons with Vanessa Kirby's
-      coach Andy Johnstone. During 2018, she participated in RADA workshops at
-      Royal Academy of Dramatic Arts: A taste of RADA Workshops, Elements of
-      Rada. Additionally, she carried out several certifications and training in
-      stage combat including Dan Syles and Strike Company: Combat for Screen and
-      Stage and a combat lab at the British Academy of Dramatic Combat. In 2016
-      Wendy studied Audition technique, Shakespeare performance and Acting for
-      screen at the National Youth Theatre, London."
+      coach Andy Johnstone.  Additionally, she carried out several
+      certifications and training in stage combat including Dan Syles and Strike
+      Company: Combat for Screen and Stage and a combat lab at the British
+      Academy of Dramatic Combat which led her in taking a polished course in
+      combat for stage and Screen at the Royal Academy of Dramatic Arts while
+      studying The Elements of RADA Classical and a Taste of Rada.  In 2016,
+      Wendy-Anne studied Audition technique, Shakespeare performance and Acting
+      for screen at the National Youth Theatre, London."
     imageUrl: img/WendyAnneDaloz@ConstanceVictoria(3).jpg
   - heading: Notable projects
     text: Wendy is known for her amazon prime video short, Angie Lemaire as well as
