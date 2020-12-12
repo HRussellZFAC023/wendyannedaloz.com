@@ -1,7 +1,7 @@
 ---
 title: Iulia David October 2020
 date: 2020-09-29T09:56:00.185Z
-description: Wendy-Anne Daloz
+description: Wendy-Anne Daloz (modelling)
 image: img/wendy1284.jpg
 ---
 
